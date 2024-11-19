@@ -10,8 +10,8 @@
           "stock": 120,
           "sku": "WH-12345",
           "images": [
-            "https://via.placeholder.com/600x400?text=Headphones+1",
-            "https://via.placeholder.com/600x400?text=Headphones+Side+View"
+            "https://placehold.co/600x400?text=Headphones+1",
+            "https://placehold.co/600x400?text=Headphones+Side+View"
           ],
           "rating": 4.5,
           "reviews": 87
@@ -26,8 +26,8 @@
           "stock": 350,
           "sku": "WB-67890",
           "images": [
-            "https://via.placeholder.com/600x400?text=Water+Bottle+1",
-            "https://via.placeholder.com/600x400?text=Water+Bottle+Lid"
+            "https://placehold.co/600x400?text=Water+Bottle+1",
+            "https://placehold.co/600x400?text=Water+Bottle+Lid"
           ],
           "rating": 4.7,
           "reviews": 142
@@ -42,8 +42,8 @@
           "stock": 25,
           "sku": "GL-54321",
           "images": [
-            "https://via.placeholder.com/600x400?text=Laptop+1",
-            "https://via.placeholder.com/600x400?text=Laptop+Keyboard+View"
+            "https://placehold.co/600x400?text=Laptop+1",
+            "https://placehold.co/600x400?text=Laptop+Keyboard+View"
           ],
           "rating": 4.8,
           "reviews": 45
@@ -58,8 +58,8 @@
           "stock": 50,
           "sku": "IP15PRO-001",
           "images": [
-            "https://via.placeholder.com/600x400?text=iPhone+15+Pro+1",
-            "https://via.placeholder.com/600x400?text=iPhone+15+Pro+Side"
+            "https://placehold.co/600x400?text=iPhone+15+Pro+1",
+            "https://placehold.co/600x400?text=iPhone+15+Pro+Side"
           ],
           "rating": 4.9,
           "reviews": 325
@@ -74,8 +74,8 @@
           "stock": 60,
           "sku": "TV-001",
           "images": [
-            "https://via.placeholder.com/600x400?text=4K+TV+1",
-            "https://via.placeholder.com/600x400?text=4K+TV+Side+View"
+            "https://placehold.co/600x400?text=4K+TV+1",
+            "https://placehold.co/600x400?text=4K+TV+Side+View"
           ],
           "rating": 4.4,
           "reviews": 110

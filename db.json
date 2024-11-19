@@ -1,0 +1,322 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "description": "High-quality over-ear headphones with noise cancellation.",
+      "price": 79.99,
+      "currency": "USD",
+      "category": "Electronics",
+      "stock": 120,
+      "sku": "WH-12345",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Headphones+1",
+        "https://via.placeholder.com/600x400?text=Headphones+Side+View"
+      ],
+      "rating": 4.5,
+      "reviews": 87
+    },
+    {
+      "id": 2,
+      "name": "Stainless Steel Water Bottle",
+      "description": "Durable water bottle with double-wall insulation.",
+      "price": 19.99,
+      "currency": "USD",
+      "category": "Home & Kitchen",
+      "stock": 350,
+      "sku": "WB-67890",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Water+Bottle+1",
+        "https://via.placeholder.com/600x400?text=Water+Bottle+Lid"
+      ],
+      "rating": 4.7,
+      "reviews": 142
+    },
+    {
+      "id": 3,
+      "name": "Gaming Laptop",
+      "description": "High-performance laptop for gaming and productivity.",
+      "price": 1299.99,
+      "currency": "USD",
+      "category": "Computers",
+      "stock": 25,
+      "sku": "GL-54321",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Laptop+1",
+        "https://via.placeholder.com/600x400?text=Laptop+Keyboard+View"
+      ],
+      "rating": 4.8,
+      "reviews": 45
+    },
+    {
+      "id": 4,
+      "name": "Apple iPhone 15 Pro",
+      "description": "The latest iPhone with A17 Bionic chip, ProMotion display, and an improved camera system.",
+      "price": 999.99,
+      "currency": "USD",
+      "category": "Electronics",
+      "stock": 50,
+      "sku": "IP15PRO-001",
+      "images": [
+        "https://via.placeholder.com/600x400?text=iPhone+15+Pro+1",
+        "https://via.placeholder.com/600x400?text=iPhone+15+Pro+Side"
+      ],
+      "rating": 4.9,
+      "reviews": 325
+    },
+    {
+      "id": 5,
+      "name": "4K Smart TV",
+      "description": "Ultra HD Smart TV with Alexa and Google Assistant integration.",
+      "price": 599.99,
+      "currency": "USD",
+      "category": "Electronics",
+      "stock": 60,
+      "sku": "TV-001",
+      "images": [
+        "https://via.placeholder.com/600x400?text=4K+TV+1",
+        "https://via.placeholder.com/600x400?text=4K+TV+Side+View"
+      ],
+      "rating": 4.4,
+      "reviews": 110
+    },
+    {
+      "id": 6,
+      "name": "Smartwatch Series 6",
+      "description": "Apple Smartwatch with ECG, blood oxygen monitoring, and fitness tracking.",
+      "price": 399.99,
+      "currency": "USD",
+      "category": "Wearables",
+      "stock": 75,
+      "sku": "SW-002",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Smartwatch+1",
+        "https://via.placeholder.com/600x400?text=Smartwatch+Band"
+      ],
+      "rating": 4.8,
+      "reviews": 150
+    },
+    {
+      "id": 7,
+      "name": "Portable Bluetooth Speaker",
+      "description": "Compact Bluetooth speaker with 12-hour battery life and IPX7 waterproofing.",
+      "price": 49.99,
+      "currency": "USD",
+      "category": "Electronics",
+      "stock": 300,
+      "sku": "BS-003",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Bluetooth+Speaker+1",
+        "https://via.placeholder.com/600x400?text=Speaker+Side+View"
+      ],
+      "rating": 4.6,
+      "reviews": 220
+    },
+    {
+      "id": 8,
+      "name": "Noise-Cancelling Earbuds",
+      "description": "True wireless earbuds with noise cancellation and up to 30 hours of battery life.",
+      "price": 129.99,
+      "currency": "USD",
+      "category": "Electronics",
+      "stock": 150,
+      "sku": "EB-004",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Earbuds+1",
+        "https://via.placeholder.com/600x400?text=Earbuds+Case"
+      ],
+      "rating": 4.7,
+      "reviews": 95
+    },
+    {
+      "id": 9,
+      "name": "Laptop Stand",
+      "description": "Ergonomic laptop stand with adjustable height and cooling fan.",
+      "price": 39.99,
+      "currency": "USD",
+      "category": "Accessories",
+      "stock": 200,
+      "sku": "LS-005",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Laptop+Stand+1",
+        "https://via.placeholder.com/600x400?text=Laptop+Stand+Side"
+      ],
+      "rating": 4.3,
+      "reviews": 60
+    },
+    {
+      "id": 10,
+      "name": "Electric Toothbrush",
+      "description": "Sonic-powered toothbrush with 5 cleaning modes and a 2-minute timer.",
+      "price": 59.99,
+      "currency": "USD",
+      "category": "Health & Personal Care",
+      "stock": 180,
+      "sku": "ET-006",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Electric+Toothbrush+1",
+        "https://via.placeholder.com/600x400?text=Toothbrush+Head"
+      ],
+      "rating": 4.5,
+      "reviews": 130
+    },
+    {
+      "id": 11,
+      "name": "Cordless Drill Set",
+      "description": "18V cordless drill with 2 batteries and a carrying case.",
+      "price": 89.99,
+      "currency": "USD",
+      "category": "Tools",
+      "stock": 85,
+      "sku": "CD-007",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Cordless+Drill+1",
+        "https://via.placeholder.com/600x400?text=Drill+Set"
+      ],
+      "rating": 4.6,
+      "reviews": 75
+    },
+    {
+      "id": 12,
+      "name": "Fitness Tracker Band",
+      "description": "Smart fitness tracker with heart rate monitor and sleep tracking.",
+      "price": 39.99,
+      "currency": "USD",
+      "category": "Wearables",
+      "stock": 250,
+      "sku": "FT-008",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Fitness+Tracker+1",
+        "https://via.placeholder.com/600x400?text=Fitness+Tracker+Band"
+      ],
+      "rating": 4.2,
+      "reviews": 95
+    },
+    {
+      "id": 13,
+      "name": "Electric Kettle",
+      "description": "1.7L electric kettle with rapid boil and auto shut-off.",
+      "price": 29.99,
+      "currency": "USD",
+      "category": "Home & Kitchen",
+      "stock": 220,
+      "sku": "EK-009",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Electric+Kettle+1",
+        "https://via.placeholder.com/600x400?text=Kettle+Spout"
+      ],
+      "rating": 4.4,
+      "reviews": 80
+    },
+    {
+      "id": 14,
+      "name": "Smart Home Security Camera",
+      "description": "Wi-Fi security camera with motion detection and night vision.",
+      "price": 89.99,
+      "currency": "USD",
+      "category": "Smart Home",
+      "stock": 100,
+      "sku": "SHC-010",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Security+Camera+1",
+        "https://via.placeholder.com/600x400?text=Camera+Mount"
+      ],
+      "rating": 4.5,
+      "reviews": 120
+    },
+    {
+      "id": 15,
+      "name": "Cordless Vacuum Cleaner",
+      "description": "Lightweight cordless vacuum with powerful suction and 3 cleaning modes.",
+      "price": 159.99,
+      "currency": "USD",
+      "category": "Home Appliances",
+      "stock": 40,
+      "sku": "CV-011",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Vacuum+Cleaner+1",
+        "https://via.placeholder.com/600x400?text=Vacuum+Cleaner+Brush"
+      ],
+      "rating": 4.7,
+      "reviews": 210
+    },
+    {
+      "id": 16,
+      "name": "Blender Set",
+      "description": "Professional blender set with multiple speed settings and attachments.",
+      "price": 99.99,
+      "currency": "USD",
+      "category": "Home & Kitchen",
+      "stock": 150,
+      "sku": "BL-012",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Blender+Set+1",
+        "https://via.placeholder.com/600x400?text=Blender+Attachments"
+      ],
+      "rating": 4.3,
+      "reviews": 55
+    },
+    {
+      "id": 17,
+      "name": "Air Fryer",
+      "description": "3.5L air fryer with rapid air circulation for healthier cooking.",
+      "price": 79.99,
+      "currency": "USD",
+      "category": "Home Appliances",
+      "stock": 180,
+      "sku": "AF-013",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Air+Fryer+1",
+        "https://via.placeholder.com/600x400?text=Air+Fryer+Interior"
+      ],
+      "rating": 4.6,
+      "reviews": 110
+    },
+    {
+      "id": 18,
+      "name": "Electric Grill",
+      "description": "Non-stick electric grill with adjustable temperature control.",
+      "price": 59.99,
+      "currency": "USD",
+      "category": "Home & Kitchen",
+      "stock": 140,
+      "sku": "EG-014",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Electric+Grill+1",
+        "https://via.placeholder.com/600x400?text=Grill+Cooking+Surface"
+      ],
+      "rating": 4.4,
+      "reviews": 90
+    },
+    {
+      "id": 19,
+      "name": "Camping Tent",
+      "description": "Waterproof 4-person tent with easy setup and ventilation.",
+      "price": 129.99,
+      "currency": "USD",
+      "category": "Outdoor",
+      "stock": 75,
+      "sku": "CT-015",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Camping+Tent+1",
+        "https://via.placeholder.com/600x400?text=Tent+Interior"
+      ],
+      "rating": 4.5,
+      "reviews": 60
+    },
+    {
+      "id": 20,
+      "name": "Electric Space Heater",
+      "description": "Portable electric heater with adjustable temperature settings.",
+      "price": 49.99,
+      "currency": "USD",
+      "category": "Home Appliances",
+      "stock": 250,
+      "sku": "ES-016",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Space+Heater+1",
+        "https://via.placeholder.com/600x400?text=Heater+Control+Panel"
+      ],
+      "rating": 4.3,
+      "reviews": 130
+    }
+  ]
